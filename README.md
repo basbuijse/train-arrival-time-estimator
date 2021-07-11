@@ -1,3 +1,3 @@
 # Deep Train Arrival Time Estimator
 
-In this repo the code is provided with which train arrival time can be predicted.
+In this repo code is provided with which train arrival times can be predicted.
