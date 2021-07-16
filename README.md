@@ -1,3 +1,2 @@
 # Deep Train Arrival Time Estimator
-
-In this repo code is provided with which train arrival times can be predicted.
+An implementation of a predicting model for train arrival times at levelcrossings using deep learning
